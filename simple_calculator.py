@@ -1,0 +1,11 @@
+num1=input("Enter the first number :")
+num2=input("Enter the second number :")
+sum1=int(num1)+int(num2)
+sum2=int(num1)-int(num2)
+sum3=int(num1)*int(num2)
+sum4=float(num1)/float(num2)
+
+print(sum1)
+print(sum2)
+print(sum3)
+print(sum4)
